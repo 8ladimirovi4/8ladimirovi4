@@ -1,10 +1,19 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vladimir</h1>
+<h3 align="center">A passionate fullstack developer from Russia</h3>
+
+- 🔭 I’m currently working on web applications
+
+- 🌱 I’m currently learning **Vue, GraphQL, React Native, Next.js, Typescript**
+
+- 💬 Ask me about **React, Redux (Saga, Thunk), JS, HTML5, CSS3, Node.js, Express, Sessions, socket.io, PostgreSQL, Sequelize ORM, Jest**
+
+- 📫 How to reach me **leonov.vladimir.job@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vladimir-leonov-8a1339120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladimir-leonov-8a1339120" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vladimir.vladimirovich.1988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vladimir.vladimirovich.1988" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ufo_unidentified/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ufo_unidentified/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/le-vladimir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladimir-leonov-8a1339120" height="30" width="40" /></a>
+<a href="https://fb.com/vladimir.vladimirovich.1988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vladimir.vladimirovich.1988" height="30" width="40" /></a>
+<a href="https://instagram.com/ufo_unidentified/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ufo_unidentified/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
