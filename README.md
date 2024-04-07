@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vladimir</h1>
-<h3 align="center">A passionate fullstack developer from Russia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on web applications
 
-- 🌱 I’m currently learning **Vue, GraphQL, React Native, Next.js, Typescript**
+- 🌱 I’m currently learning **Vue, Next.js, Docker, Node.js**
 
-- 💬 Ask me about **React, Redux (Saga, Thunk), JS, HTML5, CSS3, Node.js, Express, Sessions, socket.io, PostgreSQL, Sequelize ORM, Jest**
+- 💬 Ask me about **React, Redux (Thunk), JS, HTML5, CSS3, Node.js, Express, Sessions, socket.io, PostgreSQL, Sequelize ORM**
 
 - 📫 How to reach me **leonov.vladimir.job@gmail.com**
 
