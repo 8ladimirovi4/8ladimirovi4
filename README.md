@@ -40,9 +40,7 @@ I have experience with the following technologies:
 <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=61DAFB" alt="Figma logo" title="Figma" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logo
-
-Color=646CFF" alt="Vite logo" title="Vite" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite logo" title="Vite" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=6E9F18" alt="Vitest logo" title="Vitest" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Redux_Toolkit-282C34?logo=redux&logoColor=764ABC" alt="Redux Toolkit logo" title="Redux Toolkit" height="25" />&nbsp;
 
