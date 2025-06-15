@@ -1,20 +1,56 @@
-<h1 align="center">Hi 👋, I'm Vladimir Leonov</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi there 👋 Welcome to my GitHub!
 
-- 🔭 I’m currently working on web applications
+## About Me
 
-- 🌱 I’m currently learning **Vue, Next.js, Docker, Node.js**
+I'm a **Frontend Developer** with strong focus on building scalable and maintainable web applications.
 
-- 💬 Ask me about **React, Redux (Thunk), JS, HTML5, CSS3, Node.js, Express, Sessions, socket.io, PostgreSQL, Sequelize ORM**
+#### Additional Experience
 
-- 📫 How to reach me **leonov.vladimir.job@gmail.com**
+- Organizing onboarding processes and helping new developers adapt within teams.
+- Breaking down features into tasks and participating in task estimation.
+- Preparing and delivering internal presentations for the development team.
+- Actively contributing to cross-team code reviews.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/le-vladimir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladimir-leonov-8a1339120" height="30" width="40" /></a>
-<a href="https://fb.com/vladimir.vladimirovich.1988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vladimir.vladimirovich.1988" height="30" width="40" /></a>
-<a href="https://instagram.com/ufo_unidentified/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ufo_unidentified/" height="30" width="40" /></a>
-</p>
+#### Key Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+- **Languages & Markup**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries**: React, Redux, Redux Toolkit
+- **Tooling & Testing**: Webpack, Vite, Vitest
+
+## Connect with me:
+
+[<img src="https://img.shields.io/badge/Telegram-%40nevelenevess-blue">](https://t.me/le_vladimir)
+[<img src="https://img.shields.io/badge/Linkedin-%40neveleneves-blue">](https://www.linkedin.com/in/le-vladimir/)
+[<img src="https://img.shields.io/badge/Email-max.nikonov.work@gmail.com-blue">](mailto:leonov.vladimir.job@gmail.com)
+
+## Stack of technologies
+
+I have experience with the following technologies:
+
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/SASS-282C34?logo=SASS&logoColor=c69" alt="SASS logo" title="SASS" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB" alt="React.js logo" title="React.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764abc" alt="Redux logo" title="Redux" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8ED5FA" alt="Webpack logo" title="Webpack" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F7DF1E" alt="Babel logo" title="Babel" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=61DAFB" alt="Figma logo" title="Figma" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="PostgreSQL logo" title="PostgreSQL" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logo
+
+Color=646CFF" alt="Vite logo" title="Vite" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=6E9F18" alt="Vitest logo" title="Vitest" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Redux_Toolkit-282C34?logo=redux&logoColor=764ABC" alt="Redux Toolkit logo" title="Redux Toolkit" height="25" />&nbsp;
+
+And others:
+
+- AJAX, REST API, WSS
+
+## GitHub Stats
+
+![8ladimirovi4's GitHub stats](https://github-readme-stats.vercel.app/api?username=8ladimirovi4&show_icons=true&title_color=00E0FF&text_color=FFFFFF&theme=tokyonight&bg_color=000000&icon_color=00E0FF)
+``
