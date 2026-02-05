@@ -19,9 +19,9 @@ I'm a **Frontend Developer** with strong focus on building scalable and maintain
 
 ## Connect with me:
 
-[<img src="https://img.shields.io/badge/Telegram-%40nevelenevess-blue">](https://t.me/le_vladimir)
-[<img src="https://img.shields.io/badge/Linkedin-%40neveleneves-blue">](https://www.linkedin.com/in/le-vladimir/)
-[<img src="https://img.shields.io/badge/Email-max.nikonov.work@gmail.com-blue">](mailto:leonov.vladimir.job@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-%40le_vladimir-blue">](https://t.me/le_vladimir)
+[<img src="https://img.shields.io/badge/Linkedin-le--vladimir-blue">](https://www.linkedin.com/in/le-vladimir/)
+[<img src="https://img.shields.io/badge/Email-leonov.vladimir.job@gmail.com-blue">](mailto:leonov.vladimir.job@gmail.com)
 
 ## Stack of technologies
 
